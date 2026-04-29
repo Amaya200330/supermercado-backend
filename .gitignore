@@ -1,0 +1,16 @@
+# Archivos y carpetas de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Binarios y compilados
+bin/
+obj/
+
+# Archivos de configuración locales
+*.dbmdl
+*.log
+*.ldf
+*.mdf
